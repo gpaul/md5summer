@@ -1,3 +1,4 @@
+// example application for blog post: http://gpaul.github.io/blog/2014/12/24/clean-shutdown-example/
 package main
 
 import (
